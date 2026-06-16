@@ -19,11 +19,11 @@ Python, Pandas, Matplotlib and Seaborn
 
 ## Key Findings
 
-- Communication Services has the highest average market cap (~$364B) which is more than 70% larger than Technology (~$213B), the second-highest sector.
-- Financial Services leads in revenue growth (~15.7%), despite ranking only 8th in average market cap.
+- Communication Services has the highest average market cap ($364B) which is more than 70% larger than Technology ($213B), the second-highest sector.
+- Financial Services leads in revenue growth (15.7%), despite ranking only 8th in average market cap.
 - Energy and Consumer Defensive show the lowest revenue growth (under 1%), consistent with their status as mature, stable sectors.
-- Technology combines high EBITDA (~$7.7B avg) with strong revenue growth (~11.6%), suggesting it's both large-scale and still expanding.
-- Real Estate has the smallest average market cap (~$33B) and lowest average EBITDA (~$2.2B) among all 11 sectors.
+- Technology combines high EBITDA ($7.7B avg) with strong revenue growth (11.6%), suggesting it's both large-scale and still expanding.
+- Real Estate has the smallest average market cap ($33B) and lowest average EBITDA ($2.2B) among all 11 sectors.
 
 ## Sector Summary Table
 
